@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-invoicing-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-invoicing",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-invoicing-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/invoicing.md",
+  "presentationPlan": "projects/billing/nuxt/invoicing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
